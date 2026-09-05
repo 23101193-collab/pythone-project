@@ -1,0 +1,13 @@
+img{
+
+    width:150px;
+     height:300px;
+}
+h1 {
+     font-size: 24px;
+    color: purple;
+}
+
+.highlight {
+    color: rgb(214, 22, 22);
+}
